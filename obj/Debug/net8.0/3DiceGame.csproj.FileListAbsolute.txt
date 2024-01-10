@@ -1,0 +1,14 @@
+C:\Users\sanji\OneDrive\Desktop\Github\3DiceGame\bin\Debug\net8.0\3DiceGame.exe
+C:\Users\sanji\OneDrive\Desktop\Github\3DiceGame\bin\Debug\net8.0\3DiceGame.deps.json
+C:\Users\sanji\OneDrive\Desktop\Github\3DiceGame\bin\Debug\net8.0\3DiceGame.runtimeconfig.json
+C:\Users\sanji\OneDrive\Desktop\Github\3DiceGame\bin\Debug\net8.0\3DiceGame.dll
+C:\Users\sanji\OneDrive\Desktop\Github\3DiceGame\bin\Debug\net8.0\3DiceGame.pdb
+C:\Users\sanji\OneDrive\Desktop\Github\3DiceGame\obj\Debug\net8.0\3DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanji\OneDrive\Desktop\Github\3DiceGame\obj\Debug\net8.0\3DiceGame.AssemblyInfoInputs.cache
+C:\Users\sanji\OneDrive\Desktop\Github\3DiceGame\obj\Debug\net8.0\3DiceGame.AssemblyInfo.cs
+C:\Users\sanji\OneDrive\Desktop\Github\3DiceGame\obj\Debug\net8.0\3DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\sanji\OneDrive\Desktop\Github\3DiceGame\obj\Debug\net8.0\3DiceGame.dll
+C:\Users\sanji\OneDrive\Desktop\Github\3DiceGame\obj\Debug\net8.0\refint\3DiceGame.dll
+C:\Users\sanji\OneDrive\Desktop\Github\3DiceGame\obj\Debug\net8.0\3DiceGame.pdb
+C:\Users\sanji\OneDrive\Desktop\Github\3DiceGame\obj\Debug\net8.0\3DiceGame.genruntimeconfig.cache
+C:\Users\sanji\OneDrive\Desktop\Github\3DiceGame\obj\Debug\net8.0\ref\3DiceGame.dll
